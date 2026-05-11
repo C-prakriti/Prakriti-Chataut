@@ -1,2 +1,25 @@
-# Prakriti-Chataut
-About me and my interests
+# About ME
+Hello! I am Prakriti Chataut from Nepal. I completed my Bachelor of Science degree in Forestry from Tribhuvan University, Nepal. I have been working in the field of wildlife and ecology since the past 2 years as an Intern and later as a research assistant. These roles have not only helped me gain invaluable field expriences but I am now capable of working in harsh terrains of the mountains as well as the humid dense forests of Terai. I am interested in using quantitative and spatial approaches to answer ecological questions, particularly population ecology and habitat ecology.
+
+# Research Interests:
+- Population Ecology
+- Habitat Ecology
+- Spatial analysis
+- Ecological modeling
+
+# Current Projects:
+- Multiseason occupancy analysis of Common leopard in Banke-Bardiya Complex
+- Evaluating sectional methods and predictive models for stem volume estimation under measurement uncertainty
+- First documented resuce and translocation of a Snow leopard in Upper Mustang, Nepal
+
+# Completed Projects:
+- Identification of areas in Upper Mustang that requires conservation pond intervention
+- An Assessment of utilization pattern of Artificial waterholes by Wildilfe in Banke National Park
+- Seasonal Variation of Forest Butterfly Diversity in Tropical Lowland Nepal
+- Diversity and abundance of butterflies in Tokha municipality, Kathmandu, Nepal
+
+# Tools Used:
+- QGIS
+- R-programming
+- GEE
+- MS Excel/CSV
