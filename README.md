@@ -9,14 +9,9 @@ Hello! I am Prakriti Chataut from Nepal. I completed my Bachelor of Science degr
 
 # Current Projects:
 - Multiseason occupancy analysis of Common leopard in Banke-Bardiya Complex
-- Evaluating sectional methods and predictive models for stem volume estimation under measurement uncertainty
-- First documented resuce and translocation of a Snow leopard in Upper Mustang, Nepal
 
 # Completed Projects:
-- Identification of areas in Upper Mustang that requires conservation pond intervention
-- An Assessment of utilization pattern of Artificial waterholes by Wildilfe in Banke National Park
-- Seasonal Variation of Forest Butterfly Diversity in Tropical Lowland Nepal
-- Diversity and abundance of butterflies in Tokha municipality, Kathmandu, Nepal
+- An Assessment of utilization pattern of Artificial waterholes by Wildilfe in Banke National Park - **Wildlife_Waterhole_Utilization**
 
 # Tools Used:
 - QGIS
